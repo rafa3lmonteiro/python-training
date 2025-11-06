@@ -5,14 +5,14 @@ Repository for studies in python language.
 - Challenges and exercises related to the 3 modules of the course completed.
 
 
-## For anyone interested in this course, it's free with brazilian teacher Gustavo Guanabara, study on website and get a certificate. Full course infollow the links:
+### For anyone interested in this course, it's free with brazilian teacher Gustavo Guanabara, study on website and get a certificate. Full course infollow the links:
   
     - https://www.cursoemvideo.com/curso/python-3-mundo-1
     - https://www.cursoemvideo.com/curso/python-3-mundo-2
     - https://www.cursoemvideo.com/curso/python-3-mundo-3
 
 
-## Or direct links to the playlists on YouTube:
+### Or direct links to the playlists on YouTube:
 
   
     - https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
