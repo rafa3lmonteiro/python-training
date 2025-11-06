@@ -1,6 +1,6 @@
 # Python 3 course exercises
  
-Repository for studies in python3 language.
+Repository for studies in python language.
 
 - Challenges and exercises related to the 3 modules of the course completed.
 
