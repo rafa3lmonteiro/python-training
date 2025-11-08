@@ -19,4 +19,6 @@ Repository for studies in python language.
     - https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
     - https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
     
-*course in Brazilian Portuguese, for other languages use the subtitles
+
+
+### course in Brazilian Portuguese, for other languages use the subtitles
