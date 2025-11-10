@@ -21,4 +21,4 @@ Repository for studies in python language.
     
 
 
-### course in Brazilian Portuguese, for other languages use the subtitles
+### Course in Brazilian Portuguese, for other languages use the subtitles
